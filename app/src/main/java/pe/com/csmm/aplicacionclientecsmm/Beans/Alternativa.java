@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 /**
  * Created by RICHARD on 25/08/2016.
  */
+// modificado el 2018/10/10
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Alternativa {
 
